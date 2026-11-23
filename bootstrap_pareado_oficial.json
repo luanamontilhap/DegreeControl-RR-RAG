@@ -1,0 +1,128 @@
+{
+  "precision@5:degree_control-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.03334811529933481,
+    "ci95_low": -0.03813747228381375,
+    "ci95_high": -0.028558758314855878,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "precision@5:degree_control-cross_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.021019955654101998,
+    "ci95_low": -0.027937915742793796,
+    "ci95_high": -0.014190687361419069,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "precision@5:cross_encoder-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.012328159645232819,
+    "ci95_low": -0.018536585365853658,
+    "ci95_high": -0.006031042128603104,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "recall@5:degree_control-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.05716925351071692,
+    "ci95_low": -0.06633407243163342,
+    "ci95_high": -0.04789356984478936,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "recall@5:degree_control-cross_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.03078344419807834,
+    "ci95_low": -0.04368348115299334,
+    "ci95_high": -0.018070029563932017,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "recall@5:cross_encoder-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.02638580931263858,
+    "ci95_low": -0.03817442719881744,
+    "ci95_high": -0.014187915742793832,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "f1@5:degree_control-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.041422940203428,
+    "ci95_low": -0.04752595642839546,
+    "ci95_high": -0.035245706190828154,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "f1@5:degree_control-cross_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.024840741913912643,
+    "ci95_low": -0.033660296343223164,
+    "ci95_high": -0.016215420758103696,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "f1@5:cross_encoder-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.016582198289515366,
+    "ci95_low": -0.024583465315172633,
+    "ci95_high": -0.008409178896983786,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "full_evidence@5:degree_control-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.039467849223946784,
+    "ci95_low": -0.05277161862527716,
+    "ci95_high": -0.02616407982261641,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "full_evidence@5:degree_control-cross_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": 0.005764966740576497,
+    "ci95_low": -0.01197339246119734,
+    "ci95_high": 0.02350332594235033,
+    "interpretation": "interval includes zero; no evidence of a nonzero difference; this does not establish equivalence"
+  },
+  "full_evidence@5:cross_encoder-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.04523281596452328,
+    "ci95_low": -0.06252771618625277,
+    "ci95_high": -0.027937915742793792,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "mrr@5:degree_control-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.09593495934959351,
+    "ci95_low": -0.10711770140428677,
+    "ci95_high": -0.08429305247597933,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "mrr@5:degree_control-cross_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.11087952697708796,
+    "ci95_low": -0.12797616407982262,
+    "ci95_high": -0.09343625277161863,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "mrr@5:cross_encoder-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": 0.014944567627494455,
+    "ci95_low": -0.0021740576496674094,
+    "ci95_high": 0.03210181079083515,
+    "interpretation": "interval includes zero; no evidence of a nonzero difference; this does not establish equivalence"
+  },
+  "ndcg@5:degree_control-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.07061986300961798,
+    "ci95_low": -0.07811725109631859,
+    "ci95_high": -0.06270925357286308,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "ndcg@5:degree_control-cross_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.058012542423994305,
+    "ci95_low": -0.06965546019535611,
+    "ci95_high": -0.04630446374073533,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  },
+  "ndcg@5:cross_encoder-bi_encoder": {
+    "n_questions": 2255,
+    "mean_diff_a_minus_b": -0.012607320585623668,
+    "ci95_low": -0.023624083172039432,
+    "ci95_high": -0.0014618987643767781,
+    "interpretation": "interval excludes zero; evidence of a nonzero paired difference"
+  }
+}

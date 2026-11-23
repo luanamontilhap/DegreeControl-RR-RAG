@@ -1,0 +1,17 @@
+{
+  "created_at_utc": "2026-11-17T18:24:45.003542+00:00",
+  "n_questions_total": 2556,
+  "n_documents_valid": 609,
+  "mapping_status_counts": {
+    "url_exact": 6084
+  },
+  "n_ambiguous_evidence": 0,
+  "n_unmatched_evidence": 0,
+  "n_duplicate_normalized_corpus_urls": 0,
+  "duplicate_url_examples": {},
+  "n_distinct_corpus_docs_targeted_by_multiple_evidence_rows": 492,
+  "n_non_null_questions": 2255,
+  "n_null_query": 301,
+  "eligibility_rule": "non-null, non-empty query, at least one evidence row, every evidence row mapped unambiguously; duplicate rows mapping to the same corpus document count once in gold_doc_ids and do not by themselves make a question ineligible",
+  "n_eligible": 2255
+}
